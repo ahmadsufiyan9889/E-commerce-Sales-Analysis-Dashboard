@@ -120,4 +120,6 @@ Trend Analysis: Monitors yearly sales and profit growth.
 Decision Support: Enables business managers to make informed, data-driven decisions using interactive reports.
 
 6. Screenshots / Demo
- Example:- (https://github.com/ahmadsufiyan9889/E-commerce-Sales-Analysis-Dashboard/blob/main/Sales%20Dashboard%20SS.png)
+## 📸 Dashboard Preview
+
+![E-Commerce Sales Dashboard](https://github.com/ahmadsufiyan9889/E-commerce-Sales-Analysis-Dashboard/blob/main/Sales%20Dashboard%20SS.png?raw=true)
